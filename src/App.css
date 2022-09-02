@@ -4,3 +4,53 @@
   box-sizing: border-box;
   font-family: 'Montserrat', sans-serif;
 }
+
+.home,
+.winter,
+.mountains,
+.forest,
+.snowMan,
+.christmas,
+.spring,
+.autumn,
+.singUp{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  font-size: 4rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-shadow: 4px 4px 4px #fff;
+
+}
+.home{
+  background-image: url(./images/nature.jpg);
+
+}
+.winter{
+  background-image: url(./images/winter.jpg);
+}
+.mountains{
+  background-image: url(./images/mountain.jpg);
+}
+.forest{
+  background-image: url(./images/forest2.jpg);
+}
+.snowMan{
+  background-image: url('./images/snow-Man.jpg');
+}
+.christmas{
+  background-image: url(./images/christmas.jpg);
+}
+.spring{
+  background-image: url(./images/spring.jpg);
+
+}
+.autumn{
+  background-image: url(./images/autumn.jpg);
+}
+.singUp{
+  background-image: url(./images/singUp.jpg);
+}

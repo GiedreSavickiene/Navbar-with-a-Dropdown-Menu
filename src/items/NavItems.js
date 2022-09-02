@@ -20,7 +20,7 @@ export const navItems = [
     {
         id: 4,
         title: "Autumn",
-        path: "./summer",
+        path: "./autumn",
         cName: "nav_item"
     }
 
