@@ -28,6 +28,7 @@
 .nav_item{
     display: flex;
     align-items: center;
+    height: 10vh;
 }
 
 .nav_item a {

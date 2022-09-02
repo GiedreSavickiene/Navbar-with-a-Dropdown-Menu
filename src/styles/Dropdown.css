@@ -10,6 +10,10 @@
     background: rgb(0, 212, 212);
     cursor: pointer;
 }
+.services-submenu li a:hover{
+    background: rgb(0, 175, 175);
+    
+}
 .services-submenu.clicked {
     display: none;
 }
@@ -22,7 +26,4 @@
     text-decoration: none;
     color: white;
     padding: 16px;
-}
-.submenu-item:hover{
-    background: rgb(0, 175, 175);
 }
