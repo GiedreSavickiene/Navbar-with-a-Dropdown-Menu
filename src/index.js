@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 // import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&family=Poppins:wght@300;400;500;600;700;800&family=Slabo+27px&display=swap" rel="stylesheet"></link>
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
