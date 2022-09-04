@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Navbar-with-a-Dropdown-Menu/static/css/main.13c32e9c.css",
+    "main.js": "/Navbar-with-a-Dropdown-Menu/static/js/main.b011d651.js",
+    "static/js/787.efe20b21.chunk.js": "/Navbar-with-a-Dropdown-Menu/static/js/787.efe20b21.chunk.js",
+    "static/media/mountain.jpg": "/Navbar-with-a-Dropdown-Menu/static/media/mountain.3047685535b47f9f3567.jpg",
+    "static/media/forest2.jpg": "/Navbar-with-a-Dropdown-Menu/static/media/forest2.2b69bb3059162afd998d.jpg",
+    "static/media/snow-Man.jpg": "/Navbar-with-a-Dropdown-Menu/static/media/snow-Man.c9f66ff4243f7eff767b.jpg",
+    "static/media/autumn.jpg": "/Navbar-with-a-Dropdown-Menu/static/media/autumn.a9d74fd0eb71af00a1b7.jpg",
+    "static/media/singUp.jpg": "/Navbar-with-a-Dropdown-Menu/static/media/singUp.9f4a75189acb556803ab.jpg",
+    "static/media/winter.jpg": "/Navbar-with-a-Dropdown-Menu/static/media/winter.87cfa517a69522123f99.jpg",
+    "static/media/christmas.jpg": "/Navbar-with-a-Dropdown-Menu/static/media/christmas.9b23567c0ca34de4a08a.jpg",
+    "static/media/nature.jpg": "/Navbar-with-a-Dropdown-Menu/static/media/nature.c3e73b52af2f7248fd28.jpg",
+    "static/media/spring.jpg": "/Navbar-with-a-Dropdown-Menu/static/media/spring.de21d6736a2be6ac0f6c.jpg",
+    "static/media/forest.jpg": "/Navbar-with-a-Dropdown-Menu/static/media/forest.499a48acb180342fc19d.jpg",
+    "index.html": "/Navbar-with-a-Dropdown-Menu/index.html",
+    "main.13c32e9c.css.map": "/Navbar-with-a-Dropdown-Menu/static/css/main.13c32e9c.css.map",
+    "main.b011d651.js.map": "/Navbar-with-a-Dropdown-Menu/static/js/main.b011d651.js.map",
+    "787.efe20b21.chunk.js.map": "/Navbar-with-a-Dropdown-Menu/static/js/787.efe20b21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13c32e9c.css",
+    "static/js/main.b011d651.js"
+  ]
+}
